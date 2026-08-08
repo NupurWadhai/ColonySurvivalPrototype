@@ -1,0 +1,4 @@
+{
+  "foodPerVillagerPerDay": 10,
+  "waterPerVillagerPerDay": 8
+}

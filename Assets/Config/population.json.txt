@@ -1,0 +1,5 @@
+{
+  "villagerCount": 10,
+  "startingFood": 1000,
+  "startingWater": 800
+}

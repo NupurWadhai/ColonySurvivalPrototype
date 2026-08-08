@@ -1,7 +1,5 @@
-fileFormatVersion: 2
-guid: a2f33a6474649cc4790114f78de4b21e
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+{
+  "villagerCount": 10,
+  "startingFood": 1000,
+  "startingWater": 800
+}
